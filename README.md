@@ -11,7 +11,7 @@ Clone this repository ans
 install the required dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
 Open the Jupyter Notebook:
-Navigate to and run Nov25Models.ipynb from top to bottom.
+Navigate to and run sephora_price_drivers_analysis.ipynb from top to bottom.
 The notebook includes data cleaning, exploratory analysis, and modeling steps with inline comments explaining each stage of the workflow.
 
 Data:
