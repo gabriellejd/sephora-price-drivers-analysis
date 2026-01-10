@@ -14,11 +14,11 @@ Open the Jupyter Notebook:
 Navigate to and run Nov25Models.ipynb from top to bottom.
 The notebook includes data cleaning, exploratory analysis, and modeling steps with inline comments explaining each stage of the workflow.
 
-Data
+Data:
 Source: Kaggle – Sephora Products & Skincare Reviews
 Data includes product pricing, ratings, review counts, category, brand, and size information.
 
-Maintainers and Contributors
+Maintainers and Contributors:
 This project was developed and is maintained by:
 Gabrielle Dominique
 Jose Velasquez
