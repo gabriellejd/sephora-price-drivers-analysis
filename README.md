@@ -7,7 +7,7 @@ Why this project is useful:
 Coming from a highly competitive industry, beauty brands must justify pricing and differentiate products beyond marketing. This project demonstrates how business analytics and modeling can be used to evaluate pricing driver and distinguish between objective vs subjective signals (price vs. ratings) for products to support data-informed pricing and product strategy decisions. 
 
 Get Started: 
-Clone this repository ans
+Clone this repository and
 install the required dependencies:
 pip install pandas numpy scikit-learn matplotlib seaborn
 Open the Jupyter Notebook:
